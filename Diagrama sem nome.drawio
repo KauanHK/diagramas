@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1076" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1076" dy="2019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -156,7 +156,7 @@
           <mxGeometry y="112" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="MnHgNe1KUJ_qipHJh511-186" value="&lt;div&gt;pygame_manager/&lt;/div&gt;&lt;div&gt;├── loaders/&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── __init__.py&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── events.py&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;├&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;── frame.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;└── interfaces.py&lt;/div&gt;&lt;div&gt;├── core/&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;├&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;── __init__.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── event.py&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── frame.py&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;├&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;── interface.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;├&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;──&amp;nbsp;group.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;├&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;── named_interface.py&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;└──&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;game.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;└── README.md&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2740" y="570" width="380" height="230" as="geometry" />
+          <mxGeometry x="3200" y="1094" width="380" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cccrhHWZmDAbZzbRYxrW-0" value="BaseInterface - abstract" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1455" y="-200" width="160" height="222" as="geometry">
